@@ -4,21 +4,25 @@ import React from 'react';
 
 function Navbar() {
     return (
-        <nav class="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600">
-          <div class="max-w-screen-xl flex justify-between mx-auto p-4">
-            <a href="https://flowbite.com/" class="flex items-center pl-4">
+        <nav class="bg-tempwhite fixed w-full z-20 top-0 left-0 border-b border-gray-200">
+          <div class="max-w-screen-xl flex justify-between mx-auto lg:p-4">
+            <a href="https://flowbite.com/" class="flex items-center md:pl-12 lg:pl-4">
                 <span class="self-center text-4xl font-black font-lato whitespace-nowrap text-tempblack dark:text-tempwhite">Eduardo Faria</span>
             </a>
-            <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1 pr-4" id="navbar-sticky">
-              <ul class="flex flex-col p-4 md:p-0 mt-4 font-medium font-bold border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+            <div class="items-center justify-end hidden w-full md:flex md:max-w-md lg:max-w-xl md:order-1 md:pr-12 lg:pr-4" id="navbar-sticky">
+              <ul class="flex flex-row md:m-2 lg:mt-4 space-x-2 lg:space-x-10">
                 <li class="pt-2">
-                  <a href="#" class="text-xl block py-2 font-lato font-bold pl-3 pr-4 text-tempblack md:pt-2">About me</a>
+                  <a href="#" class="md:text-l lg:text-xl block py-2 font-lato font-bold pl-3 pr-4 text-tempblack md:pt-2">About me</a>
                 </li>
-                <li class="p-1 px-4 rounded-xl bg-gradient-to-l from-tempblue to-tempdarkblue">
-                  <a href="#" class="text-xl block py-2 font-lato font-bold pl-3 pr-4 text-tempwhite md:pt-3">Projects</a>
+                <li>
+                  <a href="#" class="p-1 px-4 rounded-xl block bg-gradient-to-tr from-tempdarkblue to-templightblue">
+                    <div class="md:text-l lg:text-xl py-2 font-lato font-bold pl-3 pr-4 text-tempwhite md:pt-3">Projects</div>
+                  </a>
                 </li>
-                <li class="p-1 px-4 rounded-xl bg-gradient-to-l from-templightgreen to-tempdarkgreen">
-                  <a href="#" class="text-xl block py-2 font-lato font-bold pl-3 pr-4 text-tempwhite md:pt-3">Contact Me</a>
+                <li>
+                  <a href="#" class="p-1 px-3 lg:px-4 rounded-xl block bg-gradient-to-tr from-tempdarkgreen to-templightgreen">
+                    <div class="md:text-l lg:text-xl py-2 font-lato font-bold pl-3 pr-4 text-tempwhite md:pt-3">Contact Me</div>
+                  </a>
                 </li>
               </ul>
              </div>
