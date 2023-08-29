@@ -5,7 +5,7 @@ import './App.css'
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import AboutMe from './components/AboutMe';
-
+import Projects from './components/Projects';
 
 
 
@@ -21,6 +21,7 @@ function App() {
       <Navbar></Navbar>
       <Hero></Hero>
       <AboutMe></AboutMe>
+      <Projects></Projects>
     </>
   )
 }

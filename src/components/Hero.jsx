@@ -1,7 +1,7 @@
 
 function Hero() {
     return (
-        <div class="max-w-screen-xl flex justify-between mx-auto py-40 px-8">
+        <div class="bg-tempwhite max-w-screen-xl flex justify-between mx-auto py-40 md:px-12 lg:px-4">
           <div class="max-w-md lg:max-w-xl pt-8">
             <div class="w-full m-0 pb-8">
               <h1 class="text-lato text-tempblack font-bold text-6xl">Front-end <span class="text-transparent bg-clip-text bg-gradient-to-l from-tempdarkblue to-templightblue">Software Engineer</span>👨‍💻</h1>

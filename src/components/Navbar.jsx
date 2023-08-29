@@ -5,7 +5,7 @@ import React from 'react';
 function Navbar() {
     return (
         <nav class="bg-tempwhite fixed w-full z-20 top-0 left-0 border-b border-gray-200">
-          <div class="max-w-screen-xl flex justify-between mx-auto lg:p-4">
+          <div class="max-w-screen-xl flex justify-between mx-auto">
             <a href="https://flowbite.com/" class="flex items-center md:pl-12 lg:pl-4">
                 <span class="self-center text-4xl font-black font-lato whitespace-nowrap text-tempblack dark:text-tempwhite">Eduardo Faria</span>
             </a>

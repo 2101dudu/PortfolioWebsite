@@ -21,7 +21,11 @@ export default {
     fontFamily: {
       'lato': ['lato', 'sans-serif'],
     },
-    extend: {},
+    extend: {
+      boxShadow: {
+        '6xl': '0 20px 30px 10px rgba(0, 0, 0, 0.2)',
+      }
+    },
   },
   plugins: [        
     require('flowbite/plugin')
