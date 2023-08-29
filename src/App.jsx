@@ -6,6 +6,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import AboutMe from './components/AboutMe';
 import Projects from './components/Projects';
+import ContactMe from './components/ContactMe';
 
 
 
@@ -22,6 +23,7 @@ function App() {
       <Hero></Hero>
       <AboutMe></AboutMe>
       <Projects></Projects>
+      <ContactMe></ContactMe>
     </>
   )
 }

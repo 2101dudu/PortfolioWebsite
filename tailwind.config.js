@@ -16,6 +16,7 @@ export default {
       'tempblue': '#0153A9',
       'tempdarkblue': '#013193',
       'tempwhite': '#FFFDFA',
+      'transparentwhite': 'rgba(255,255,230,0.3)',
       'tempblack': '#1E1E1E',
     },
     fontFamily: {
@@ -23,7 +24,8 @@ export default {
     },
     extend: {
       boxShadow: {
-        '6xl': '0 20px 30px 10px rgba(0, 0, 0, 0.2)',
+        '6xl': '0 20px 30px 20px rgba(0, 0, 0, 0.2)',
+        '4xl': '0 0px 40px 20px rgba(0, 0, 0, 0.2)',
       }
     },
   },
