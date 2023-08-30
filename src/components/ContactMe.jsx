@@ -15,13 +15,17 @@ function ContactMe() {
                     <input type="email" name="floating_email" id="floating_email" class="h-full w-full z-10 peer bg-transparent border-0 rounded-lg bg-gradient-to-tr from-transparentwhite focus:ring-4 focus:ring-tempwhite p-2.5 text-xl font-lato text-tempwhite placeholder:text-xl placeholder:font-lato placeholder:text-tempwhite" placeholder="Email..." required></input>
                   </div>
                 </div>
-
                 <textarea type="message" rows="4" name="floating_message" id="floating_message" class="h-32 shadow-4xl max-h-64 w-full bg-transparent border-0 rounded-lg bg-gradient-to-tr from-transparentwhite focus:ring-4 focus:ring-tempwhite p-2.5 text-xl font-lato text-tempwhite placeholder:text-xl placeholder:font-lato placeholder:text-tempwhite" placeholder="Message..." required></textarea>
-
               </div>
             </div>
           </div>
-          <div class="h-40 w-screen"></div>
+          <div class="h-96 w-screen -skew-y-3">
+            <div class="max-w-screen-xl md:px-12 lg:px-4 pt-12 mx-auto">
+              <a href="" class="shadow-4xl rounded-xl w-48 h-20 lg:w-56 lg:h-24 bg-gradient-to-tr block from-tempdarkblue to-templightblue md:mr-32 lg:mr-72">
+                <div class="text-lato font-bold text-tempwhite text-2xl lg:text-4xl text-center pt-6 lg:pt-7">Send</div>
+              </a>
+            </div>
+          </div>
         </div>
     );
 }

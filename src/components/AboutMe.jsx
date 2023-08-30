@@ -26,7 +26,7 @@ function AboutMe() {
                     <h2 class="text-lato text-tempwhite text-2xl max-w-lg">💬 Fluent in English and a native Portuguese speaker.</h2>
                   </div>
                   <div class="md:max-w-md lg:max-w-lg w-1/2">
-                    <a href="#" class="rounded-xl w-48 h-20 lg:w-56 lg:h-24 bg-gradient-to-tr block from-tempdarkblue to-templightblue md:mr-32 lg:mr-72">
+                    <a href="#" class="shadow-4xl rounded-xl w-48 h-20 lg:w-56 lg:h-24 bg-gradient-to-tr block from-tempdarkblue to-templightblue md:mr-32 lg:mr-72">
                         <div class="text-lato font-bold text-tempwhite text-2xl lg:text-4xl text-center pt-6 lg:pt-7">Resume</div>
                     </a>
                   </div>
