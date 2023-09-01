@@ -12,15 +12,15 @@ function Navbar() {
             <div class="items-center justify-end hidden w-full md:flex md:max-w-md lg:max-w-xl md:order-1 md:pr-12 lg:pr-4" id="navbar-sticky">
               <ul class="flex flex-row md:m-2 lg:mt-4 space-x-2 lg:space-x-10">
                 <li class="pt-2">
-                  <a href="#" class="md:text-l lg:text-xl block py-2 font-lato font-bold pl-3 pr-4 text-tempblack md:pt-2">About me</a>
+                  <a href="#" class="md:duration-300 md:hover:scale-105 md:text-l lg:text-xl block py-2 font-lato font-bold pl-3 pr-4 text-tempblack md:pt-2">About me</a>
                 </li>
                 <li>
-                  <a href="#" class="shadow-xl p-1 px-4 rounded-xl block bg-gradient-to-tr from-tempdarkblue to-templightblue">
+                  <a href="#" class="md:duration-300 md:hover:scale-105 shadow-xl p-1 px-4 rounded-xl block bg-gradient-to-tr from-tempdarkblue to-templightblue">
                     <div class="md:text-l lg:text-xl py-2 font-lato font-bold pl-3 pr-4 text-tempwhite md:pt-3">Projects</div>
                   </a>
                 </li>
                 <li>
-                  <a href="#" class="shadow-xl p-1 px-3 lg:px-4 rounded-xl block bg-gradient-to-tr from-tempdarkgreen to-templightgreen">
+                  <a href="#" class="md:duration-300 md:hover:scale-105 shadow-xl p-1 px-3 lg:px-4 rounded-xl block bg-gradient-to-tr from-tempdarkgreen to-templightgreen">
                     <div class="md:text-l lg:text-xl py-2 font-lato font-bold pl-3 pr-4 text-tempwhite md:pt-3">Contact Me</div>
                   </a>
                 </li>
