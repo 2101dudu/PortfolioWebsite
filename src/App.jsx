@@ -7,6 +7,7 @@ import Hero from './components/Hero';
 import AboutMe from './components/AboutMe';
 import Projects from './components/Projects';
 import ContactMe from './components/ContactMe';
+import Footer from './components/Footer';
 
 
 
@@ -24,6 +25,7 @@ function App() {
       <AboutMe></AboutMe>
       <Projects></Projects>
       <ContactMe></ContactMe>
+      <Footer></Footer>
     </>
   )
 }

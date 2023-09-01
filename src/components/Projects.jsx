@@ -12,7 +12,7 @@ function Projects () {
               <div class="md:w-80 lg:w-96">
                 <div class="flex flex-col items-center">
                   <h2 class="font-lato font-bold text-tempblack md:text-2xl lg:text-3xl pt-6">Portfolio Website</h2>
-                  <a href="#" class="duration-300 hover:scale-105 md:mt-6 lg:mt-10 bg-gradient-to-tr block from-tempdarkgreen to-templightgreen rounded-2xl py-2 px-4">
+                  <a href="https://github.com/2101dudu/PortfolioWebsite" target="_blank" class="md:duration-300 md:hover:scale-105 md:mt-6 lg:mt-10 bg-gradient-to-tr block from-tempdarkgreen to-templightgreen rounded-2xl py-2 px-4">
                     <h2 class="text-tempwhite font-lato font-bold text-lg">View Project</h2>
                   </a>
                   <div class="md:mt-3 lg:mt-5 text-center">
@@ -29,7 +29,7 @@ function Projects () {
               <div class="md:w-80 lg:w-96">
                 <div class="flex flex-col items-center">
                   <h2 class="font-lato font-bold text-tempblack md:text-2xl lg:text-3xl pt-6">Portfolio Website</h2>
-                  <a href="#" class="md:duration-300 md:hover:scale-105 md:mt-6 lg:mt-10 bg-gradient-to-tr block from-tempdarkgreen to-templightgreen rounded-2xl py-2 px-4">
+                  <a href="" class="md:duration-300 md:hover:scale-105 md:mt-6 lg:mt-10 bg-gradient-to-tr block from-tempdarkgreen to-templightgreen rounded-2xl py-2 px-4">
                     <h2 class="text-tempwhite font-lato font-bold text-lg">View Project</h2>
                   </a>
                   <div class="md:mt-3 lg:mt-5 text-center">

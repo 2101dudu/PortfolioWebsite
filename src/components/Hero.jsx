@@ -8,16 +8,16 @@ function Hero() {
             </div>
             <h2 class="text-lato text-tempblack font-medium text-4xl pb-8">Based in Braga, student at the University of Minho.</h2>
             <ul class="flex">
-              <li class="pr-10 lg:pr-24">
+              <li class="duration-300 ease-in-out hover:scale-105 pr-10 lg:pr-24">
                 <img class="w-14 h-14" src="src/assets/Html_Logo.png" alt="Html Logo"></img>
               </li>
-              <li class="pr-10 lg:pr-24">
+              <li class="duration-300 ease-in-out hover:scale-105 pr-10 lg:pr-24">
                 <img class="w-14 h-14" src="src/assets/Css_Logo.png" alt="Css Logo"></img>
               </li>
-              <li class="pr-10 lg:pr-24">
+              <li class="duration-300 ease-in-out hover:scale-105 pr-10 lg:pr-24">
                 <img class="w-14 h-14" src="src/assets/JavaScript_Logo.png" alt="JavaScript Logo"></img>
               </li>
-              <li>
+              <li class="duration-300 ease-in-out hover:scale-105">
                 <img class="w-14 h-14" src="src/assets/React_Logo.png" alt="React Logo"></img>
               </li>
             </ul>
