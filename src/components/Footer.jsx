@@ -9,7 +9,7 @@ function Footer() {
               <div class="text-tempwhite font-lato font-normal">+351 918718340</div>
             </div>
             <div class="flex w-28 justify-between">
-              <a class="duration-200 ease-in-out hover:scale-105" href="https://www.linkedin.com/in/eduardo-faria-692736275" target="_blank">
+              <a class="duration-200 ease-in-out hover:scale-105" href="https://www.linkedin.com/in/FariaEduardo/" target="_blank">
                 <img class="w-10 h-10" src="src/assets/LinkedIn_Logo.png" alt="LinkedIn Logo"></img>
               </a>
               <a class="duration-200 ease-in-out hover:scale-105" href="https://github.com/2101dudu" target="_blank">
@@ -17,7 +17,7 @@ function Footer() {
               </a>
             </div>
           </div>
-          <h2 class="text-center font-lato text-tempwhite pb-2">© 2023 Eduardo Faria</h2>
+          <h2 class="text-center font-lato text-tempgray duration-300 hover:text-tempwhite pb-2">© 2023 Eduardo Faria</h2>
         </div>
     );
 }

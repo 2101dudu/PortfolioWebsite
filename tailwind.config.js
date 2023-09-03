@@ -18,6 +18,7 @@ export default {
       'tempwhite': '#FFFDFA',
       'transparentwhite': 'rgba(255,255,230,0.3)',
       'tempblack': '#1E1E1E',
+      'tempgray': '#808080',
     },
     fontFamily: {
       'lato': ['lato', 'sans-serif'],
