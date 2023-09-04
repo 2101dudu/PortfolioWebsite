@@ -1,7 +1,7 @@
 
 function Hero() {
     return (
-        <div class="bg-tempwhite max-w-screen-xl flex justify-between mx-auto py-40 md:px-12 lg:px-4">
+        <div class="bg-tempwhite max-w-screen-xl flex justify-between mx-auto py-20 md:py-40 md:px-12 lg:px-4">
           <div class="max-w-md lg:max-w-xl pt-8">
             <div class="w-full m-0 pb-8">
               <h1 class="text-lato text-tempblack font-bold text-6xl tracking-normal">Front-end <span class="text-transparent bg-clip-text bg-gradient-to-l from-tempdarkblue to-templightblue">Software Engineer</span>👨‍💻</h1>
@@ -23,7 +23,7 @@ function Hero() {
             </ul>
           </div>
           <div class="max-w-sm lg:max-w-md">
-            <img class="shadow-xl rounded-full w-full h-auto" src="src/assets/ProfilePhoto.png" alt="Profile Photo"></img>
+            <img class="shadow-xl rounded-full w-full h-auto" src="src/assets/Foto_Perfil_Quadrado.png" alt="Profile Photo"></img>
           </div>
         </div>
 
