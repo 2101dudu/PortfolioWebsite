@@ -18,13 +18,13 @@ function App() {
       window.scrollTo({ top: 0, behavior: "smooth" });
     };
     const backToAboutMe = () => {
-      window.scrollTo({ top: 800, behavior: "smooth" });
+      window.scrollTo({ top: 750, behavior: "smooth" });
     };
     const backToProjects = () => {
-      window.scrollTo({ top: 1750, behavior: "smooth" });
+      window.scrollTo({ top: 1700, behavior: "smooth" });
     };
     const backToContactMe = () => {
-      window.scrollTo({ top: 2750, behavior: "smooth" });
+      window.scrollTo({ top: 2700, behavior: "smooth" });
     };
 
     if (backToTopButton) {
