@@ -4,7 +4,6 @@ export default {
     "./src/**/*.{js,jsx,ts,tsx}",
 ],
   theme: {
-
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
@@ -27,6 +26,9 @@ export default {
       boxShadow: {
         '6xl': '0 20px 30px 20px rgba(0, 0, 0, 0.2)',
         '4xl': '0 0px 40px 20px rgba(0, 0, 0, 0.2)',
+      },
+      maxWidth: {
+        'xxs': '16rem',
       }
     },
   },

@@ -2,8 +2,6 @@ import React from 'react';
 
 
 
-
-
 function Navbar() {
   return (
     <nav class="invisible md:visible bg-tempwhite fixed w-full z-20 top-0 left-0 border-b border-gray-200">
