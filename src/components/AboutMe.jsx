@@ -3,7 +3,7 @@ function AboutMe() {
     return (
           <div class="bg-gradient-to-tr from-tempdarkblue via-tempdarkgreen to-templightgreen -skew-y-3">
             <div class="h-100vh skew-y-3 w-screen">
-              <div class="max-w-screen-xl px-8 md:px-12 lg:px-4 mx-auto">
+              <div class="max-w-screen-xl px-8 md:px-12 mx-auto">
                 <h1 class="text-lato font-bold text-tempwhite min-[320px]:text-3xl min-[420px]:text-4xl sm:text-5xl md:text-6xl pt-20 sm:pt-28 md:pt-40">About me</h1>
                 <div class="max-w-7xl flex flex-col min-[420px]:flex-row space-x-0 space-y-10 min-[420px]:space-y-0 min-[420px]:space-x-8 justify-between pt-12">
                   <div class="min-[420px]:w-1/2 lg:max-w-lg">
