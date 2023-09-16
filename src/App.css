@@ -1,0 +1,17 @@
+.message {
+    position: fixed;
+    top: 32px;
+    right: -100%;
+    z-index: 9999;
+    padding: 10px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    color: white;
+    transition: right 0.5s ease-in-out;
+}
+
+.message.slide-in {
+    right: 0;
+}
+

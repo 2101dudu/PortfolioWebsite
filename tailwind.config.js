@@ -18,6 +18,9 @@ export default {
       'transparentwhite': 'rgba(255,255,230,0.3)',
       'tempblack': '#1E1E1E',
       'tempgray': '#808080',
+      'successgreen': '#90ee90',
+      'failred': '#ff0000',
+      'lightfailred': '#ff7573',
     },
     fontFamily: {
       'lato': ['lato', 'sans-serif'],
