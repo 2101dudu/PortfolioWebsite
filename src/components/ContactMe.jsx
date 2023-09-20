@@ -8,7 +8,7 @@ function ContactMe() {
     const sendEmail = (e) => {
       e.preventDefault();
   
-      emailjs.sendForm('service_dbf4h4q', 'template_rzzj6r7', form.current, 'C5J-WLgsGkjlAAe-x')
+      emailjs.sendForm('service_xccbbq6', 'template_rzzj6r7', form.current, 'C5J-WLgsGkjlAAe-x')
         .then((result) => {
             setIsSuccess(true);
             form.current.reset();
