@@ -7,7 +7,7 @@ function Projects () {
             <h1 class="text-tempdarkblue font-lato font-bold text-4xl sm:text-5xl md:text-6xl">Projects</h1>
             <div class="flex flex-col min-[420px]:flex-row bg-tempwhite shadow-6xl m-auto">
               <div class="w-full min-[420px]:w-1/2 md:w-80 lg:w-96">
-                <img class="w-full h-auto" src="src/assets/Wbsite_screenshot.png" alt="Website Screenshot"></img>
+                <img class="w-full h-auto" src="src/assets/Website_screenshot.png" alt="Website Screenshot"></img>
               </div>
               <div class="w-full min-[420px]:w-1/2 md:w-80 lg:w-96 flex flex-col space-y-4 min-[320px]:space-y-6 min-[420px]:space-y-0 justify-around items-center">
                 <h2 class="font-lato font-bold text-tempblack text-lg min-[320px]:text-xl min-[420px]:text-base min-[470px]:text-xl sm:text-2xl lg:text-3xl pt-2 min-[470px]:pt-3 sm:pt-5 md:pt-6">Portfolio Website</h2>
