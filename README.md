@@ -2,7 +2,7 @@
 
 ## About
 
-This medium solo project has the goal of showcasing my work as a software engineer student. 
+This medium solo project aims to showcase my work as a software engineer student. 
 
 
 ## Sections
