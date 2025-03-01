@@ -9,7 +9,7 @@ function Projects() {
           <div class="w-full min-[420px]:w-1/2 md:w-80 lg:w-96">
             <img
               class="w-full h-auto"
-              src="../../src/assets/Website_screenshot.png"
+              src={"assets/Website_screenshot.png"}
               alt="Website Screenshot"
             ></img>
           </div>
@@ -33,12 +33,12 @@ function Projects() {
               <div class="flex space-x-2 min-[470px]:space-x-4">
                 <img
                   class="w-6 min-[420px]:w-5 min-[490px]:w-6 sm:w-8"
-                  src="../../src/assets/React_Logo.png"
+                  src={"assets/React_Logo.png"}
                   alt="React Logo"
                 ></img>
                 <img
                   class="w-6 min-[420px]:w-5 min-[490px]:w-6 sm:w-8"
-                  src="../../src/assets/Figma_Logo.png"
+                  src={"assets/Figma_Logo.png"}
                   alt="Figma Logo"
                 ></img>
               </div>
@@ -49,7 +49,7 @@ function Projects() {
           <div class="visible h-auto min-[420px]:invisible min-[420px]:h-0 min-[420px]:w-0 w-full">
             <img
               class="w-full h-auto"
-              src="../../src/assets/CrossyRoad_Screenshot.png"
+              src={"assets/CrossyRoad_Screenshot.png"}
               alt="Crossy Road Screenshot"
             ></img>
           </div>
@@ -99,7 +99,7 @@ function Projects() {
           <div class="invisible h-0 min-[420px]:visible min-[420px]:h-auto w-full min-[420px]:w-1/2 md:w-80 lg:w-96">
             <img
               class="w-full h-auto"
-              src="../../src/assets/CrossyRoad_Screenshot.png"
+              src={"assets/CrossyRoad_Screenshot.png"}
               alt="Crossy Road Screenshot"
             ></img>
           </div>
@@ -109,4 +109,3 @@ function Projects() {
   );
 }
 export default Projects;
-

@@ -22,26 +22,26 @@ function Hero() {
           </h2>
           <ul class="invisible h-0 md:visible md:h-auto flex justify-between space-x-3 min-[470px]:space-x-5 min-[540px]:space-x-8 sm:space-x-10 lg:space-x-24">
             <li class="duration-300 transition-transform ease-in-out hover:scale-105 w-6 min-[470px]:w-8 sm:w-10 md:w-14">
-              <img src="../../src/assets/Html_Logo.png" alt="Html Logo"></img>
+              <img src={"src/assets/Html_Logo.png"} alt="Html Logo"></img>
             </li>
             <li class="duration-300 transition-transform ease-in-out hover:scale-105 w-6 min-[470px]:w-8 sm:w-10 md:w-14">
-              <img src="../../src/assets/Css_Logo.png" alt="Css Logo"></img>
+              <img src={"src/assets/Css_Logo.png"} alt="Css Logo"></img>
             </li>
             <li class="duration-300 transition-transform ease-in-out hover:scale-105 w-6 min-[470px]:w-8 sm:w-10 md:w-14">
               <img
-                src="../../src/assets/JavaScript_Logo.png"
+                src="src/assets/JavaScript_Logo.png"
                 alt="JavaScript Logo"
               ></img>
             </li>
             <li class="duration-300 transition-transform ease-in-out hover:scale-105 w-6 min-[470px]:w-8 sm:w-10 md:w-14">
-              <img src="../../src/assets/React_Logo.png" alt="React Logo"></img>
+              <img src={"src/assets/React_Logo.png"} alt="React Logo"></img>
             </li>
           </ul>
         </div>
         <div class="max-w-3xs min-[320px]:max-w-4xs min-[390px]:max-w-3xs min-[470px]:max-w-xxs sm:max-w-xs md:max-w-sm lg:max-w-md min-[320px]:mt-10 md:mt-0">
           <img
             class="shadow-xl rounded-full w-full h-auto"
-            src="../../src/assets/Foto_Perfil_Quadrado.png"
+            src="src/assets/Foto_Perfil_Quadrado.png"
             alt="Profile Photo"
           ></img>
         </div>
@@ -49,19 +49,19 @@ function Hero() {
       <div class="bg-tempwhite px-3 min-[320px]:px-8 pt-10 pb-32 visible md:m-0 md:h-0 md:invisible w-full md:p-0">
         <ul class="flex space-x-8 justify-between">
           <li class="duration-300 transition-transform ease-in-out hover:scale-105 w-10 min-[470px]:w-12 min-[540px]:w-14">
-            <img src="../../src/assets/Html_Logo.png" alt="Html Logo"></img>
+            <img src={"src/assets/Html_Logo.png"} alt="Html Logo"></img>
           </li>
           <li class="duration-300 transition-transform ease-in-out hover:scale-105 w-10 min-[470px]:w-12 min-[540px]:w-14">
-            <img src="../../src/assets/Css_Logo.png" alt="Css Logo"></img>
+            <img src={"src/assets/Css_Logo.png"} alt="Css Logo"></img>
           </li>
           <li class="duration-300 transition-transform ease-in-out hover:scale-105 w-10 min-[470px]:w-12 min-[540px]:w-14">
             <img
-              src="../../src/assets/JavaScript_Logo.png"
+              src="src/assets/JavaScript_Logo.png"
               alt="JavaScript Logo"
             ></img>
           </li>
           <li class="duration-300 transition-transform ease-in-out hover:scale-105 w-10 min-[470px]:w-12 min-[540px]:w-14">
-            <img src="../../src/assets/React_Logo.png" alt="React Logo"></img>
+            <img src={"src/assets/React_Logo.png"} alt="React Logo"></img>
           </li>
         </ul>
       </div>
